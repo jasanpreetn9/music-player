@@ -13,7 +13,7 @@
 </p>
 
 <!-- PREVIEW IMAGE -->
-<img src="https://github.com/jasanpreetn9/music-player/blob/main/Preview.png?raw=true">
+<img class="preview" src="https://github.com/jasanpreetn9/music-player/blob/main/Preview.png?raw=true">
 
 <hr/>
 
