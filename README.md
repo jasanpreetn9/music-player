@@ -2,10 +2,7 @@
 <!-- PROJECT LOGO -->
 <p align="center">
   <div align="center">
-    <a href="https://github.com/jasanpreetn9/Codex/">
-      <img width="150" src="https://github.com/jasanpreetn9/Codex/blob/master/static/favicon.png?raw=true" alt="Logo">
-    </a>
-    <h3>Codex - Watch animes online</h3>
+    <h3>Music Player</h3>
   </div>
 
   <hr />
@@ -16,7 +13,7 @@
 </p>
 
 <!-- PREVIEW IMAGE -->
-<img src="https://github.com/jasanpreetn9/Codex/blob/master/static/webPreview.png?raw=true">
+<img src="https://github.com/jasanpreetn9/music-player/blob/main/Preview.png?raw=true">
 
 <hr/>
 
@@ -30,14 +27,12 @@ git clone https://github.com/jasanpreetn9/Codex.git
 ```
 
 
-This should download this repository to your computer. Next, to download the dependencies run
+This should install all the libras need for this project
 ```
-pip 
-```
-
-Now build and start the production build of the site using
-```
-npm build
+pip install requirements.txt -r
 ```
 
-This will start the app on http://localhost:5173
+Now run the the Main.py
+```
+python Main.py
+```
